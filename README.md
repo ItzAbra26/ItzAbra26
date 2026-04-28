@@ -79,7 +79,7 @@ Estoy buscando una oportunidad donde pueda aportar energia, aprender rapido y cr
 |---|---|---|---|
 | FideliPass | Proyecto orientado a fidelizacion, gestion de usuarios y experiencia practica de aplicacion real | Java, SQL, backend/app | Proximamente |
 | NeuroPad | Aplicacion de escritorio enfocada en productividad y organizacion | JavaScript, Electron, UI | Proximamente |
-| Retech.IA Hackathon | Proyecto ganador relacionado con IA aplicada a instalacion, configuracion y arquitectura de servidores, redes y sistemas para organizaciones | IA, redes, servidores, sistemas | Proximamente |
+| Retech.IA Hackathon | Proyecto ganador relacionado con IA aplicada a instalacion, configuracion y arquitectura de servidores, redes y sistemas para organizaciones | IA, redes, servidores, sistemas | [Proximamente](https://github.com/ItzAbra26/RetechIA.git) |
 
 ---
 
