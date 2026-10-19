@@ -55,12 +55,13 @@ MVP técnico inspirado en la propuesta ganadora del hackathon **Retech.IA**: ayu
 
 [**Explorar el repositorio →**](https://github.com/ItzAbra26/RetechIA)
 
-<details>
-<summary><b>En desarrollo: FideliPass</b></summary>
+### 03 / FideliPass
+**Fidelización y gestión de usuarios en una aplicación.**
 
-Proyecto orientado a fidelización y gestión de usuarios, con Java y SQL. Repositorio y demostración pendientes de publicación.
+Aplicación orientada a gestionar programas de fidelización y usuarios, con **Java y SQL**. El proyecto conecta la organización de la información de clientes con una experiencia de uso pensada para la fidelización.
 
-</details>
+**Enfoque del proyecto:** gestión de datos, lógica de aplicación y experiencia de usuario.
+
 
 ## Tecnologías
 
