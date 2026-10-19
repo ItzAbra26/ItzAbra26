@@ -12,7 +12,7 @@ Estudiante de **DAM**, titulado en **Sistemas Microinformáticos y Redes** y cre
 
 📍 **Málaga / remoto** · Busco prácticas u oportunidades junior en **backend y desarrollo de aplicaciones**.
 
-## Mi producto
+## Mis proyectos
 
 <table>
   <tr>
@@ -24,8 +24,6 @@ Estudiante de **DAM**, titulado en **Sistemas Microinformáticos y Redes** y cre
     </td>
   </tr>
 </table>
-
-## También construyo
 
 <table>
   <tr>
