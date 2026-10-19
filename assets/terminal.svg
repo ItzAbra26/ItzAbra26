@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="182" viewBox="0 0 1000 182" role="img" aria-labelledby="title">
-<title id="title">De una necesidad de clase a una integración con APIs, automatización y estado cifrado</title>
-<style>@keyframes blink{50%{opacity:0}}.cursor{animation:blink 1.2s step-end infinite}@keyframes travel{to{stroke-dashoffset:-48}}.link{animation:travel 3s linear infinite}@media(prefers-reduced-motion:reduce){.cursor,.link{animation:none}}</style>
-<rect x="1" y="1" width="998" height="180" rx="14" fill="#0d1626" stroke="#293a52"/>
-<g fill="#64748b"><circle cx="24" cy="24" r="5"/><circle cx="43" cy="24" r="5"/><circle cx="62" cy="24" r="5"/></g>
-<g font-family="Consolas,monospace" font-size="16"><text x="85" y="30" fill="#94a3b8">~/projects/canvas-telegram-assistant</text>
-<text x="24" y="68" fill="#5eead4">$ build something useful</text><rect class="cursor" x="270" y="54" width="9" height="18" fill="#5eead4"/>
-<text x="24" y="103" fill="#e2e8f0">Telegram</text><text x="265" y="103" fill="#e2e8f0">Cloudflare</text><text x="560" y="103" fill="#e2e8f0">Canvas API</text>
-<path class="link" d="M126 98H240M382 98H535" stroke="#5eead4" stroke-width="2" stroke-dasharray="6 10"/>
-<text x="24" y="149" fill="#94a3b8">Recordatorios · Entregas con confirmación · Estado cifrado · Automatización</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="156" viewBox="0 0 1000 156" role="img" aria-labelledby="title">
+<title id="title">Canvas Assistant: Telegram, Cloudflare y Canvas API</title>
+<style>@keyframes blink{50%{opacity:0}}@keyframes flow{to{stroke-dashoffset:-48}}.cursor{animation:blink 1.2s step-end infinite}.flow{animation:flow 3s linear infinite}@media(prefers-reduced-motion:reduce){.cursor,.flow{animation:none}}</style>
+<rect x="1" y="1" width="998" height="154" rx="14" fill="#0d1626" stroke="#293a52"/>
+<g fill="#64748b"><circle cx="24" cy="23" r="4"/><circle cx="41" cy="23" r="4"/><circle cx="58" cy="23" r="4"/></g>
+<g font-family="Consolas,monospace" font-size="14"><text x="83" y="28" fill="#94a3b8">~/canvas-assistant</text><text x="960" y="28" text-anchor="end" fill="#5eead4">$ build something useful</text><rect class="cursor" x="970" y="15" width="8" height="16" fill="#5eead4"/></g>
+<path class="flow" d="M258 83H418M582 83H742" stroke="#5eead4" stroke-opacity=".65" stroke-width="2" stroke-dasharray="6 10"/>
+<g fill="#14253b" stroke="#2d4c61"><rect x="92" y="60" width="166" height="44" rx="10"/><rect x="417" y="60" width="166" height="44" rx="10"/><rect x="742" y="60" width="166" height="44" rx="10"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle"><g fill="#e2e8f0" font-size="18"><text x="175" y="88">Telegram</text><text x="500" y="88">Cloudflare</text><text x="825" y="88">Canvas API</text></g><text x="500" y="134" fill="#94a3b8" font-size="13">Consulta tareas · Recibe avisos · Confirma tu entrega</text></g>
+</svg>

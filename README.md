@@ -27,10 +27,31 @@ Estudiante de **DAM**, titulado en **Sistemas Microinformáticos y Redes** y cre
 
 ## También construyo
 
-| Proyecto | Qué hace | Stack |
-| :--- | :--- | :--- |
-| [**Canvas Telegram Assistant**](https://github.com/ItzAbra26/canvas-telegram-assistant) | Tareas, recordatorios y entregas desde Telegram. Práctica docente. | Python · Workers · D1 |
-| [**Retech.IA**](https://github.com/ItzAbra26/RetechIA) | API de planificación de redes, inspirada en mi proyecto ganador de hackathon. | Java · Spring Boot |
+<table>
+  <tr>
+    <td align="center" width="120"><a href="https://github.com/ItzAbra26/canvas-telegram-assistant"><img src="./assets/canvas-bot.svg" width="88" height="88" alt="Canvas Telegram Assistant" /></a></td>
+    <td>
+      <h3>Canvas Assistant · Tu clase, en Telegram</h3>
+      <p>Tareas, recordatorios y entregas con confirmación, sin salir del chat. Creado para una práctica de clase.</p>
+      <p><b>Python · Cloudflare Workers · D1</b><br /><a href="https://github.com/ItzAbra26/canvas-telegram-assistant"><b>Explora el proyecto →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal animada: Telegram se conecta con Cloudflare y Canvas para consultar tareas y preparar entregas" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="120"><a href="https://github.com/ItzAbra26/RetechIA"><img src="./assets/retech.svg" width="88" height="88" alt="Retech.IA" /></a></td>
+    <td>
+      <h3>Retech.IA · Del edificio a su red</h3>
+      <p>API que calcula subredes y propone infraestructura. Inspirada en mi proyecto ganador de hackathon.</p>
+      <p><b>Java · Spring Boot · Redes</b><br /><a href="https://github.com/ItzAbra26/RetechIA"><b>Explora el proyecto →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Mi stack
 
