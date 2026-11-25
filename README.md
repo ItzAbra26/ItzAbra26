@@ -27,7 +27,7 @@ Estudiante de **DAM**, titulado en **Sistemas Microinformáticos y Redes** y cre
 
 <table>
   <tr>
-    <td align="center" width="120"><a href="https://github.com/ItzAbra26/canvas-telegram-assistant"><img src="./assets/canvas-bot.svg" width="88" height="88" alt="Canvas Telegram Assistant" /></a></td>
+    <td align="center" width="120"><a href="https://github.com/ItzAbra26/canvas-telegram-assistant"><img src="./assets/canvas-bot.png" width="88" height="88" alt="Canvas Telegram Assistant" /></a></td>
     <td>
       <h3>Canvas Assistant · Tu clase, en Telegram</h3>
       <p>Tareas, recordatorios y entregas con confirmación, sin salir del chat. Creado para una práctica de clase.</p>
@@ -42,7 +42,7 @@ Estudiante de **DAM**, titulado en **Sistemas Microinformáticos y Redes** y cre
 
 <table>
   <tr>
-    <td align="center" width="120"><a href="https://github.com/ItzAbra26/RetechIA"><img src="./assets/retech.svg" width="88" height="88" alt="Retech.IA" /></a></td>
+    <td align="center" width="120"><a href="https://github.com/ItzAbra26/RetechIA"><img src="./assets/retech.png" width="88" height="88" alt="Retech.IA" /></a></td>
     <td>
       <h3>Retech.IA · Del edificio a su red</h3>
       <p>API que calcula subredes y propone infraestructura. Inspirada en mi proyecto ganador de hackathon.</p>
