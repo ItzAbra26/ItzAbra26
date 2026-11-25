@@ -53,11 +53,60 @@ Estudiante de **DAM**, titulado en **Sistemas Microinformáticos y Redes** y cre
 
 ## Mi stack
 
+### Lenguajes y tecnologías web
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square" alt="XML" />
+</p>
+
+### Web y backend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+</p>
+
+### Desarrollo móvil
+
+Aplicaciones Android con Java, Kotlin y XML.
+
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&amp;logo=androidstudio&amp;logoColor=black" alt="Android Studio" />
+</p>
+
+### Bases de datos SQL y NoSQL
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/Firebase_Realtime_Database_(RTDB)-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase Realtime Database (RTDB)" />
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase Firestore" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+</p>
+
+### Herramientas y metodología
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&amp;logo=trello&amp;logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/UML-FABD14?style=flat-square" alt="UML" />
+</p>
+
+### Infraestructura
+
+<p>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
 </p>
